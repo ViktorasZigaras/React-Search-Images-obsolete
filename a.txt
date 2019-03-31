@@ -1,0 +1,109 @@
+https://unsplash.com/developers
+
+https://unsplash.com/documentation#guidelines--crediting
+
+
+Intro
+
+The
+ main idea of this application is to test potential employee of his or her’s abilities to implement a simple image search application by using
+unsplash.com
+ API. Potential candidate should create free developer account on the specified API page and is able to retrieve images to later use them in below described web application. This task also includes a bonus task which asks a candidate to implement Redux state
+ management module.
+Main
+ task by subtasks:
+
+
+    Create a web application
+     with ReactJS, web application should:
+
+
+        Be one-page web
+         application
+
+
+        Have a clear, comprehensible
+         and responsive layout
+
+
+        Implement
+        unsplash.com
+         image retrieval API
+
+
+        User should be
+         able to search images by entered keywords
+
+
+    Image app functionality:
+
+
+        Web application
+         should provide user with keyword (search) input field
+
+
+        When keyword is
+         entered user should be able to press search button to retrieve the images
+
+
+        When images are
+         returned app should parse API response and display images in the grid below the search input field
+
+
+        Application should
+         show some sort of progress (loading) indicator while images are being fetched
+
+
+        If there are no
+         images by entered keyword user should see message with relevant information (it could be modal popup or text element in empty image grid)
+
+
+    Bonus tasks:
+
+
+        Allow user to query
+         images by more than one keyword
+
+
+        Host your application
+         in GitHub Pages
+
+
+        Use SASS/SCSS to
+         upstyle your web application
+
+
+        Write tests for
+         chosen ReactJS component
+
+
+        Allow user to save
+         it’s query in Redux state and list saved queries, so that when pressed that query is repeated again and user gets pictures by saved query
+
+
+    Project requisites:
+
+
+        Project source
+         code should be stored in GitHub, bitbucket or any other version control platform
+
+
+        Project should
+         have a comprehensible README file
+
+
+        Project directory
+         should be logically structured
+
+
+        Source code should
+         be clean and formatted accordingly
+
+
+        Extensive comments
+         in source code are not desirable, source code should be self explanatory
+
+
+        Please follow API
+         guidelines here
+
